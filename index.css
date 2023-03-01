@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.line1{
+    width: 20px;
+    border: 2px solid black;
+    margin-bottom: 2px;
+    
+}
+.line2{
+    width: 20px;
+    border: 2px solid black;
+    margin-bottom: 2px;
+}
+.line3{
+    width: 20px;
+    border: 2px solid black;
+}
+.navBar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.lines{
+    display: flex;
+    flex-direction: column;  
+}
+.Geekster{
+    color: 
+    #049624;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: 20px;
+    font-family: sans-serif;
+
+}
+.Image{
+    display: flex;
+    align-items: center;
+    margin-left: -180px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+button{
+    background-color: #0EBC69;
+    color: white;
+    padding: 10px;
+    border: 2px solid #0EBC69;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+section{
+    background-image: url("https://s3-alpha-sig.figma.com/img/3248/f583/6f0f8f7ab89d60f05fc9c4718deb96f1?Expires=1678665600&Signature=Qx1o7o7qjk1~mAA-1XH4pZyHlC9OeFblfVMidENaKJlAatVRcyDhvI5Gk2Tzitt13IBv4EB8NJL7bp4f9PkQTZ2bBdGtMXpkwycAII2fQn2jiNbfGGEU3qKf74OVV4lPo1ppkEjYcmEr6aQy6x94BzUgVP1S7CXzVZIAN9~xEQpvT914NXyPbhxQwYUr8LAzLnX3yQn6O~E5ywbwkGNOGS55v~KHn~0PIwp1VuMWXU0gCr5hXufp1QhDLMcjbu28sDjNzaz~~BnqTLYuoXxGVz2MY~fdLEr3uMBUmAlSy9Mt7iEADrgRBqIGQopmrT0a0U-lbBkUkLCkw~mQ7WceVA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.green{
+    color: #008000;
+}
+.one{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 155px;
+    padding-top: 10px;
+    padding-right: 30px;
+}
+.two{
+    font-size: 30px;
+    margin-left: 155px;
+    padding-top: 10px;
+    padding-right: 30px;
+}
+.three{
+    margin-left: 155px;
+    padding-top: 10px;
+    padding-right: 30px;
+    margin-bottom: 100px;
+}
+.button2{
+    padding: 15px 90px
+    !important;
+}
+.green2{
+    color:#29B475;
+}
+.four{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 30%;
+
+}
